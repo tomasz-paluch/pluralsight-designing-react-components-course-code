@@ -13,7 +13,7 @@ function SpeakersToolbar() {
             </li>
             <li className="d-flex flex-column flex-md-row ml-sm-5 ml-0">
               <strong>Theme</strong>
-              <label classname="dropdown">
+              <label className="dropdown">
                 <select className="form-control theme" value="light">
                   <option value="light">Light</option>
                   <option value="dark">Dark</option>
